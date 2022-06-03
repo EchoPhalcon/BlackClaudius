@@ -1,4 +1,4 @@
-<img src="./.github/assets/images/mjlogo.png" alt="Art with MF logo (Matheus Felipe) to the top of readme.md" />
+<img src="./.github/mjlogo.png" alt="Art with MJlogo to the top of readme.md" />
 
 <h2 align="center">
     Hi, Human 🖖
