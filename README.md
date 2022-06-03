@@ -51,4 +51,3 @@
         <li>🌑 Observing space</li>
     </ul>
 </details>
-<img src="./.github/assets/images/rodape_readme.svg" alt="Art for footer readme.md" />
