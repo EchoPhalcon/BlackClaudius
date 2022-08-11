@@ -17,17 +17,11 @@
 <p align="center">
     <i>You can find me or contact me through these networks:</i>
     <br/><br/>
-    <a href="https://www.instagram.com/xblack_m.j/" target="_blank">
+   <a href="https://www.instagram.com/b.e.i.n.g.m.a.y.a.n.k/" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-0A0A0B?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram Badge" />
     </a>
-    <a href="https://twitter.com/BlackClaudius" target="_blank">
+    <a href="https://twitter.com/EchoFalcon4" target="_blank">
         <img src="https://img.shields.io/badge/-Twitter-0A0A0B?logo=twitter&style=for-the-badge&logoColor=white" alt="Twitter Badge" />
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://reddit.com/BlackClaudius" target="_blank">
-        <img src="https://img.shields.io/badge/-Reddit-0A0A0B?logo=reddit&style=for-the-badge&logoColor=white" alt="Reddit Badge" />
     </a>
     <a href="mailto:xblack.claudius@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/-Gmail-0A0A0B?logo=gmail&style=for-the-badge&logoColor=white" alt="Gmail Badge" />
