@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-    <b>I'm BlackClaudius, a developer passionate about this amazing world of technology.</b>
+    <b>I'm EchoPhalcon, a developer passionate about this amazing world of technology.</b>
 </p>
 
 <p align="center">
